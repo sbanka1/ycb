@@ -26,6 +26,7 @@ $RECYCLE.BIN/
 .DS_Store
 .AppleDouble
 .LSOverride
+.jekyll-cache
 
 # Icon must ends with two \r.
 Icon
